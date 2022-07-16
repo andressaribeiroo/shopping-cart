@@ -27,19 +27,19 @@ Neste projeto desenvolvi um carrinho de compras totalmente dinâmico, para isso,
 
  ## Run Locally
 
-Clone the project
+Clonar o projeto
 
 ```bash
   git@github.com:andressaribeiroo/shopping-cart.git
 ```
 
-Go to the project directory
+Diretório do projeto
 
 ```bash
   cd shopping-cart
 ```
 
-Install dependencies
+Instalar dependências
 
 ```bash
   npm install
