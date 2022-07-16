@@ -13,7 +13,7 @@ Neste projeto desenvolvi um carrinho de compras totalmente dinâmico, para isso,
   
 ## Preview
 
- <a href="https://andressaribeiroo.github.io/Concurso-Landing-Page/"><img width="90%" src="./img/landingPage.png" alt="Project-preview" /></a>
+ <img src="./img/trybeshopping.gif"/>
 
 ## API Reference
 
